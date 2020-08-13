@@ -3,7 +3,7 @@
     "apps": [],
     "details": [{
       "appID": "GH6V22629K.edu.stanford.ssnl.wellping",
-      "paths": ["/wellping/*"]
+      "paths": ["/WellPing/app/*"]
     }]
   }
 }
